@@ -1,0 +1,1 @@
+javascript solutions for [adventOfCode](https://adventofcode.com/) 2021
